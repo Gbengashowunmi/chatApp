@@ -52,7 +52,7 @@ li:hover{
 }
 
 .container{
-    width: 100%;
+    width: 70%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -69,7 +69,7 @@ li:hover{
 }
 
 h3{
-    font-size: 400%;
+    font-size: 300%;
 }
 
 button{
@@ -134,8 +134,8 @@ button:hover{
 .footer{
     width: 250px;
     position: absolute;
-    right: 0;
-    top: 100vh;
+    right: 20px;
+    bottom: 0;
     background-color: white;
     color: black;
     
