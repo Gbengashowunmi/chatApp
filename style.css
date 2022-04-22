@@ -155,6 +155,9 @@ button:hover{
     button{
         margin-top: 10px;
     }
+.container{
+    width: 50%;
+}
 
     header{
         justify-content: space-around;
@@ -187,12 +190,16 @@ button:hover{
         transform: translateY(4px) rotate(90deg);
         transition: 0.8s;
     }
+
+     .note{
+           width: 35%;
+    }
     .images{
-        width: 25%;
+        width: 20%;
         display: flex;
         height: fit-content;
         justify-content: space-between;
-        gap: 5%;
+        gap: 20%;
     }
      .girl{
          width: 200px;
@@ -203,7 +210,7 @@ button:hover{
     }
     
      .man{
-          width: 20%;
+          width: 200px;
           display: flex;
           flex-direction: column;
           position: relative;
