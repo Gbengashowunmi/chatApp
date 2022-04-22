@@ -192,12 +192,11 @@ button:hover{
     }
 
     .note{
-        width: 45%;
+        width: 55%;
         
     }
     .images{
-        width: 55%;
-        height: 280px;
+        width: 50%;
     }
     .girl{
         width: 50%;
@@ -211,7 +210,7 @@ button:hover{
     }
 
     img{
-        width: 85%;
+        width: 94%;
     }
 
     .icon{
@@ -229,10 +228,10 @@ button:hover{
     }
 
     .footer{
-        width: 250px;
+        width: 160px;
         position: absolute;
         right: 70px;
-        top: 93vh;
+        top: 98vh;
     }
 
 }
