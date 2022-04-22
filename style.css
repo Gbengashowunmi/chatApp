@@ -8,7 +8,8 @@ body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
     width: 100%;
-    Position: relative;
+    height: 100vh;
+    position: relative;
 }
 
 header{
@@ -62,7 +63,7 @@ li:hover{
 
 }
 .note{
-    width: 30%;
+    width: 45%;
     height: fit-content;
     padding: 20px;
     
@@ -91,7 +92,7 @@ button:hover{
 }
 
 .images{
-    width: 80%;
+    width: 55%;
     display: flex;
     height: fit-content;
     justify-content: space-between;
@@ -187,11 +188,11 @@ button:hover{
         transition: 0.8s;
     }
     .images{
-        width: 40%;
+        width: 25%;
         display: flex;
         height: fit-content;
         justify-content: space-between;
-       
+        gap: 5%;
     }
     
 }
