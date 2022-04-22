@@ -53,7 +53,7 @@ li:hover{
 }
 
 .container{
-    width: 70%;
+    width: 100%;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -90,7 +90,7 @@ button:hover{
 }
 
 .images{
-    width: 20%;
+    width: 40%;
     display: flex;
     height: fit-content;
     justify-content: space-between;
@@ -98,7 +98,7 @@ button:hover{
 }
 
 .girl{
-    width: 20%;
+    width: 40%;
     display: flex;
     flex-direction: column;
     position: relative;
@@ -115,13 +115,13 @@ button:hover{
     
 }
 .man{
-    width: 30%;
+    width: 45%;
     display: flex;
     flex-direction: column;
     position: relative;
 }
 .dots2{
-    width: 40%;
+    width: 60%;
     position: absolute;
     bottom: 0;
     left: -20px;
@@ -136,7 +136,7 @@ button:hover{
     width: 250px;
     position: absolute;
     right: 20px;
-    bottom: -100vh;
+    bottom: 0;
     background-color: white;
     color: black;
     
