@@ -326,6 +326,7 @@ img{
     .note{
         width: 100%;
         text-align: center;
+        left: 10px;
         margin-bottom: 100px;  
     } 
 
