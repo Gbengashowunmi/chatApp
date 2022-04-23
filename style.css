@@ -84,6 +84,10 @@ p{
     font-size: 13px;
 }
 
+.footer{
+    font-size: 18px;
+}
+
 button{
     border-radius: 15px;
     padding: 4px 15px 4px 15px;
@@ -364,6 +368,7 @@ img{
         width: 250px;
         position: absolute;
         right: 20px;
+        bottom: 0;
         
     } 
 
