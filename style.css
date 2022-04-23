@@ -9,6 +9,7 @@ body{
     color: white;
     width: 100%;
     height: fit-content;
+    position: relative;
     overflow:hidden:
 }
 
@@ -167,7 +168,9 @@ img{
 
 .footer{
     width: 350px;
-    margin-right: 80px;
+    right: 80px;
+    position: absolute;
+    bottom: 0;
     height: fit-content;
     background-color: white;
     color: black;
