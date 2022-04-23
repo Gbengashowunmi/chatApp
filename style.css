@@ -68,7 +68,7 @@ li:hover{
 }
 
 .note{
-    width: 40%;
+    width: 30%;
     height: fit-content;
     position: relative; 
     left: 20px;
@@ -103,7 +103,7 @@ button:hover{
 }
 
 .images{
-    width: 35%;
+    width: 45%;
     height: fit-content;
     display: flex;
     justify-content: space-evenly;
