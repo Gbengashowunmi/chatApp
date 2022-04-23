@@ -110,7 +110,7 @@ button:hover{
     display: flex;
     justify-content: space-evenly;
     position: relative;
-    right: 80px;
+    right: 30px;
     /* background-color: green; */
     
 }
@@ -362,7 +362,7 @@ img{
         width: 250px;
         position: absolute;
         right: 20px;
-        bottom: 0;
+        top: 100vh;
         
     } 
 
