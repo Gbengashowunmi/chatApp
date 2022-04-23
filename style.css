@@ -164,6 +164,7 @@ img{
     width: 350px;
     position: absolute;
     right: 80px;
+    height: fit-content;
     bottom: 0;
     background-color: white;
     color: black;
